@@ -7,7 +7,7 @@ export default function App() {
 	return (
 		<View style={styles.container}>
 			<Text>Welcome to Duck Dale!</Text>
-			<Button title="Hey Hannah" />
+			{/* <Button title="Hey Hannah" /> */}
 			<StatusBar style="auto" />
 		</View>
 	);
