@@ -34,6 +34,7 @@ const LoginScreen = () => {
 				secureTextEntry={true}
 				placeholder="Confirm password"
 			/>
+			<Button title="Submit" />
 		</View>
 	);
 };
